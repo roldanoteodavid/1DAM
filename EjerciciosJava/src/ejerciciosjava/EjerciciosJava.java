@@ -15,6 +15,7 @@ public class EjerciciosJava {
      */
     public static void main(String[] args) {
         System.out.println("Primer texto desde NetBeans.");
+        System.out.println("Primer cambio desde IntelliJ");
     }
     
 }
