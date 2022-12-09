@@ -14,7 +14,7 @@ public class EjerciciosJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Primer texto desde NetBeans.");
+        System.out.println("Primer cambio desde NetBeans.");
         System.out.println("Primer cambio desde IntelliJ");
     }
     
