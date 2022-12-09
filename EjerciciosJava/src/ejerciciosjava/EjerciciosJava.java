@@ -18,5 +18,6 @@ public class EjerciciosJava {
         System.out.println("Primer cambio desde IntelliJ.");
         System.out.println("Primer cambio desde Eclipse.");
         System.out.println("Día a día desde NetBeans.");
+        System.out.println("Día a día desde IntelliJ.");
     }
 }
