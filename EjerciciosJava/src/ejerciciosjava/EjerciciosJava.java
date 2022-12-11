@@ -20,5 +20,6 @@ public class EjerciciosJava {
         System.out.println("Día a día desde NetBeans.");
         System.out.println("Día a día desde IntelliJ.");
         System.out.println("Día a día desde Eclipse.");
+        System.out.println("Primer cambio desde Visual Studio Code.");
     }
 }
